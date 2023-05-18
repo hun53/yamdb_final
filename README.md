@@ -1,5 +1,5 @@
 # API для базы данных YaMDb
-[![API for YaMDB project workflow](https://github.com/bondarval/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=main)](https://github.com/bondarval/yamdb_final/actions/workflows/yamdb_workflow.yml)
+[![API for YaMDB project workflow](https://github.com/hun53/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master)]
 
 ## 1. [Описание](#1)
 ## 2. [Установка Docker (на платформе Ubuntu)](#2)
