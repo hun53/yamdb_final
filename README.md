@@ -1,6 +1,6 @@
-51.250.1.165 (кроме админки ничего нет. Главное всё работает! :) ) 
+158.160.101.138
 # API для базы данных YaMDb
-[![API for YaMDB project workflow](https://github.com/hun53/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master)]
+![API for YaMDB project workflow](https://github.com/hun53/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master)
 
 ## 1. [Описание](#1)
 ## 2. [Установка Docker (на платформе Ubuntu)](#2)
